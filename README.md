@@ -13,9 +13,11 @@
 **#LIVROS**
 
 1) Tidyverse Skills for Data Science
+
 https://jhudatascience.org/tidyversecourse/
 
 **JOURNALS**
+
 _Journal of Statistic Software
 https://www.jstatsoft.org/index
 
