@@ -62,5 +62,21 @@ https://medium.com/marketingdatascience/marketing-analytics-the-power-of-general
 https://medium.com/marketingdatascience/marketing-analytics-the-power-of-generalized-linear-mixed-effect-model-glmm-model-in-promotion-65abb1c6ddf1
 https://github.com/HowardNTUST/Marketing-Data-Science-Application/tree/master/Marketing%20Analytics%EF%BC%9AThe%20power%20of%20Generalized%20Linear%20Mixed-effect%20Model%28GLMM%29%20model%20in%20promotion%20marketing
 
+**TESTE AB**
+
+https://towardsdatascience.com/top-5-mistakes-with-statistics-in-a-b-testing-9b121ea1827c
+
+https://towardsdatascience.com/a-b-testing-in-r-ae819ce30656
+
+https://gist.github.com/shedoesdatascience/de3c5d3c2c88132339347c7da838a126
+
+https://medium.com/@etomaa/a-b-testing-analysis-using-rstudio-c9b5c67d6107
+
+https://rpubs.com/odenipinedo/AB-testing-in-R
+
+https://www.google.com/search?q=a%2Fb+test+using+r&oq=a%2Fb+test+using+r&aqs=chrome..69i57j0i22i30l2j69i58.9144j0j4&sourceid=chrome&ie=UTF-8
+
+
+
 
 https://www.luisotavio.pro/blog/musica-e-possivel-aplicar-ciencia-de-dados/
